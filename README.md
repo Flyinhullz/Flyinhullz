@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flyinhullz
 - 👀 I’m interested in ...Python coding and Databases
 - 🌱 I’m currently learning ...Uipath RPA and Computer Science
-- 💞️ I’m looking to collaborate on ...scripting extacts from a database
+- 💞️ I’m looking to collaborate on ...scripting to extract from a database
 - 📫 How to reach me ...
 
 <!---
